@@ -13,6 +13,7 @@ public class Play : MonoBehaviour {
 
 	public void QuitGame ()
 	{
+		//Application will close if function is run
 		Debug.Log ("Quit");
 	}
 }
